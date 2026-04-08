@@ -1,5 +1,5 @@
 /**
- * QuickNode Streams webhook verifier (Node.js).
+ * Quicknode Streams webhook verifier (Node.js).
  * Verifies HMAC-SHA256 over nonce + timestamp + payload (after gzip decode if needed).
  * @see https://www.quicknode.com/guides/quicknode-products/streams/validating-incoming-streams-webhook-messages
  */
